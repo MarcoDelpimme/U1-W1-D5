@@ -1,0 +1,192 @@
+/* RULES */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* UTILITY */
+
+
+
+/* HEADER */
+
+.header{
+    background-color: black;
+    padding-inline: 5rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+
+.logo{
+
+text-align: center;
+
+
+}
+
+.imglogo {
+
+    width: 60%;
+}
+
+
+
+/* MAIN */
+
+.sect-1 {
+    text-align: center;
+    padding-inline: 1px;
+    background-image: url(../images/banner.jpg);
+padding: 100px;
+background-size:cover ;
+background-position: center;
+padding-bottom: 39px;
+padding-top: 35px;
+}
+
+section h1 {
+    padding: 20px;
+    font-size: 32px;
+    font-weight: 600;
+    color: #38999e;
+}
+
+h1 {
+    font-size: larger;
+}
+
+h2{
+    padding: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    padding-bottom: 30px;
+padding-top: 30px;
+}
+
+h1, h2, p {
+
+    font-family: "Open Sans", sans-serif;
+    line-height: 34px;
+}
+
+h1, h2 {
+    color: #38999e;
+padding-inline: 0px;
+line-height: 34px;
+
+    
+}
+
+.inputstyle
+{
+ margin-top: 37px;
+ padding: 14px;
+ padding-inline: 25px;
+ border-radius: 5px;
+ border: none;
+ background-color: #f04c2f;
+ color: white;
+ cursor: pointer;
+ font-family: "Montserrat", sans-serif;
+ font-weight: bold;
+
+}
+
+.sect-2  {
+    text-align: center;
+    padding-inline: 1px;
+    padding: 100px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+
+}
+
+.notebookimg{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.sect-3  {
+    text-align: center;
+    padding-inline: 1px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    background-color:#ED220D ;
+    color: white ;
+
+}
+
+.sect-3 h1 {
+
+    color: white;
+}
+
+.sect-3 h2 {
+    color: white;
+}
+
+.month{
+
+    font-style: italic;
+}
+
+
+.foto {
+
+     width: 100%;
+}
+
+.photoall {
+    text-align: center;
+    padding-inline: 1px;
+    padding: 29px;
+}
+
+.bordersect{
+
+    border: solid lightgray 1px;
+    padding-bottom: 39px;
+}
+ 
+
+
+
+/* FOOTER */
+
+.sect-footer h1 {
+
+    color: white;
+}
+
+.sect-footer h2 {
+    color: white;
+}
+
+.sect-footer  {
+    text-align: center;
+    padding-inline: 1px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    background-color:#2EA8C6 ;
+    color: #c8e7f0 ; }
+
+    .copyright {
+
+        padding-top: 40px;
+        padding-inline: 88px;
+        
+    }
+
+    .pixabay {
+        border-top: solid #ffffff9e;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .number-email {
+        color:#c8e7f0;
+    }
+
+
