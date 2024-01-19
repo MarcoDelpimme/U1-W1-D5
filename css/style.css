@@ -65,16 +65,18 @@ h2{
 padding-top: 30px;
 }
 
-h1, h2, p {
+ p {
 
     font-family: "Open Sans", sans-serif;
     line-height: 34px;
+    
 }
 
 h1, h2 {
     color: #38999e;
 padding-inline: 0px;
 line-height: 34px;
+font-family: "Montserrat", sans-serif;
 
     
 }
